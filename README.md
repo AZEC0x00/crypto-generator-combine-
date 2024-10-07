@@ -28,3 +28,9 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
 'ecdsa library'
 
 'requests library'
+
+### Installation
+1. - Clone the Repository (if you haven't already):
+   - ```bash
+     git clone https://github.com/yourusername/bnb-wallet-brute-force.git
+     cd bnb-wallet-brute-force```
