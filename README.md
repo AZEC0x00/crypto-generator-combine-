@@ -41,6 +41,15 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
    - Create a config.json file in the root directory of the project.
    - Add your BSC API key to the config.json file:
  ```bash
-   {
+ {
   "api_key": "YOUR_BSC_API_KEY"
-} 
+}
+1. ### Run the Script:
+```bash
+python bnb_wallet.py
+2. ### Monitor the Output:
+
+The script will continuously generate private keys, derive BNB addresses, and check their balances.
+
+If a wallet with a non-zero balance is found, the details will be logged and saved to found_wallets.txt.
+
