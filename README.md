@@ -34,3 +34,13 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
    - ```bash
      git clone https://github.com/yourusername/bnb-wallet-brute-force.git
      cd bnb-wallet-brute-force
+2. ### Install the Required Libraries:
+   - ```bash
+     pip install ecdsa requests
+3. ### Set Up API Key:
+   - Create a config.json file in the root directory of the project.
+   - Add your BSC API key to the config.json file:
+   ```bash
+   {
+  "api_key": "YOUR_BSC_API_KEY"
+}
