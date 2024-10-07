@@ -33,4 +33,4 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
 1. - Clone the Repository (if you haven't already):
    - ```bash
      git clone https://github.com/yourusername/bnb-wallet-brute-force.git
-     cd bnb-wallet-brute-force```
+     cd bnb-wallet-brute-force
