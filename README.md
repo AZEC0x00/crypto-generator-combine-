@@ -40,7 +40,7 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
 3. ### Set Up API Key:
    - Create a config.json file in the root directory of the project.
    - Add your BSC API key to the config.json file:
-   ```bash
+ ```bash
    {
   "api_key": "YOUR_BSC_API_KEY"
-} ```
+} 
