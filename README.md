@@ -9,21 +9,21 @@ Disclaimer: This script is intended for educational purposes only. Brute-forcing
 ![image (4)](https://github.com/user-attachments/assets/e2fb5a4b-a7ff-4c3d-8ce0-bd16f3400b37)
 
 - Features
-Private Key Generation: Generates random private keys using secure random number generation.
+- Private Key Generation: Generates random private keys using secure random number generation.
 
-Public Key Derivation: Derives public keys from private keys using the ECDSA algorithm.
+- Public Key Derivation: Derives public keys from private keys using the ECDSA algorithm.
 
-BNB Address Generation: Converts public keys to BNB addresses using SHA-256 and RIPEMD-160 hashing.
+- BNB Address Generation: Converts public keys to BNB addresses using SHA-256 and RIPEMD-160 hashing.
 
-Balance Checking: Checks the balance of generated BNB addresses using the BSC API.
+- Balance Checking: Checks the balance of generated BNB addresses using the BSC API.
 
-Logging: Logs generated private keys, BNB addresses, and balances for tracking.
+- Logging: Logs generated private keys, BNB addresses, and balances for tracking.
 
-Found Wallets Saving: Saves details of wallets with non-zero balances to a file.
+- Found Wallets Saving: Saves details of wallets with non-zero balances to a file.
 
-Requirements
-Python 3.x
+## Requirements
+'Python 3.x'
 
-ecdsa library
+'ecdsa library'
 
-requests library
+'requests library'
