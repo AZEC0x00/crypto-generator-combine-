@@ -40,13 +40,13 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
 3. ### Set Up API Key:
    - Create a config.json file in the root directory of the project.
    - Add your BSC API key to the config.json file:
- ```bash
- {
-  "api_key": "YOUR_BSC_API_KEY"
-}
+    ```bash
+    {
+     "api_key": "YOUR_BSC_API_KEY"
+   }
 1. ### Run the Script:
-```bash
-python bnb_wallet.py
+   ```bash
+   python bnb_wallet.py
 
 2. ### Monitor the Output:
 
