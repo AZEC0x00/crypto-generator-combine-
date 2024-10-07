@@ -43,4 +43,4 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
    ```bash
    {
   "api_key": "YOUR_BSC_API_KEY"
-}
+} ```
