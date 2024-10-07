@@ -47,6 +47,7 @@ This script is intended for educational purposes only. Brute-forcing cryptocurre
 1. ### Run the Script:
 ```bash
 python bnb_wallet.py
+
 2. ### Monitor the Output:
 
 The script will continuously generate private keys, derive BNB addresses, and check their balances.
