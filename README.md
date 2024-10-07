@@ -58,4 +58,6 @@ If a wallet with a non-zero balance is found, the details will be logged and sav
     2023-10-01 12:34:56 - INFO - Generated Private Key: 5f6d7a8b9c0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a
    2023-10-01 12:34:56 - INFO - Generated BNB Address: 0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b
    2023-10-01 12:34:56 - INFO - Balance: 0.000000000000 BNB
-   2023-10-01 12:34:58 - INFO - Wallet with balance found! Address: 0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b, Private Key: 5f6d7a8b9c0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a, Balance: 1.234567890000 BNB
+   2023-10-01 12:34:58 - INFO - Wallet with balance found! Address: 0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b,
+   Private Key: 5f6d7a8b9c0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6a,
+   Balance: 1.234567890000 BNB
